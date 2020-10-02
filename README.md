@@ -11,8 +11,10 @@ After cloning the repo:
    d. npm install ejs
 2. go to package.json and add below to the "scripts": object:
    "dev": "nodemon --ignore feedback.json server.js"
+   
+3. Test by executing the command: "node server.js" or "npm run dev"   
 
-3. Code Formatting tools and Configurations
+4. Code Formatting tools and Configurations
     Tool:                    ESLint	
     Purpose:                 ESLint statically analyzes your code to quickly find problems.	
     Visual Studio Extension: ESLint by Dirk Baeumer
