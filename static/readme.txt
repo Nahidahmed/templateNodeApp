@@ -1,0 +1,1 @@
+Add javascript, css, external assets like images, file etc in this folder
